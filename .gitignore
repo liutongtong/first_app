@@ -1,0 +1,17 @@
+.bundle
+db/*.sqlite3
+log/*.log
+tmp/
+
+     tmp/**
+     doc/api
+     doc/app
+     db/*sqlite3
+     *.swo
+     *.swp
+     *.orig
+     *~
+     ~.DS_Store
+     hardcopy*
+     public/*/cache/*
+   
